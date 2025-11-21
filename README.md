@@ -40,3 +40,16 @@ Users can browse services, book events, and manage everything through a clean an
 
 ## 📂 Folder Structure
 
+Party-Planning-Website/
+├── frontend/ # React + Vite + TailwindCSS
+└── backend/ # Node.js + Express + MongoDB
+
+---
+
+## 🛠 Installation & Setup
+
+### 1️⃣ Clone the repo
+```bash
+git clone https://github.com/jitendrakumargupta07/Party-Planning-Website.git
+cd Party-Planning-Website
+
